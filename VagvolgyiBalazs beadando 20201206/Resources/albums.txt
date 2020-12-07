@@ -1,0 +1,3 @@
+pnd1;Pendulum;Hold Your Colour;2005-07-25
+pnd2;Pendulum;In Silico;2008-05-12
+pnd3;Pendulum;Immersion;2010-05-24
