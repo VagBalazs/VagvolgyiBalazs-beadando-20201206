@@ -1,0 +1,33 @@
+[albums]
+fyen;Adam Lambert;For Your Entertainment;2009-11-23
+trep;Adam Lambert;Trespassing;2012-05-15
+tohi;Adam Lambert;The Original High;2015-06-16
+velv;Adam Lambert;Velvet;2020-03-20
+[tracks]
+Music Again;fyen;3:16;null
+For Your Entertainment;fyen;3:35;IsPFDzAGb4A
+Whataya Want from Me;fyen;3:47;X1Fqn9du7xo
+Strut;fyen;3:29;null
+Soaked;fyen;4:33;null
+Sure Fire Winners;fyen;3:33;null
+A Loaded Smile;fyen;4:04;null
+If I Had You;fyen;3:48;wmXQFwlD7vk
+Pick U Up;fyen;4:00;null
+Fever;fyen;3:26;null
+Sleepwalker;fyen;4:26;null
+Aftermath;fyen;4:26;null
+Broken Open;fyen;5:03;null
+Time for Miracles";fyen;4:42;null
+Trespassing;trep;3:29;PvUFOimsQf8
+Cuckoo;trep;3:02;null
+Never Close Our Eyes;trep;4:08;u3dkVk3F57c
+Better Than I Know Myself;trep;3:36;Lg31XQR22zg
+Ghost Town;tohi;3:28;x8ocFEMa1o
+The Original High;tohi;3:26;null
+Underground;tohi;3:37;null
+Velvet;velv;2:58;null
+Superpower;velv;3:10;null
+New Eyes;velv;3:44;null
+
+
+
